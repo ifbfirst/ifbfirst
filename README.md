@@ -44,11 +44,11 @@
 
 ## Projects
 
-| Project Title  | Deploy Link        |
-| -------------- | :----------------- |
-| eCommerce final  | [eCommerce](https://online-moon-store.netlify.app/)     |
-| Puzzle           | [Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
-| Nanograms game   | [Nanograms game](https://ifbfirst.github.io/nanograms/index.html) |
-| Hangman game     | [Hangman game](https://ifbfirst.github.io/hangman/index.html)   |
-| Coffee-house     | [Coffee-house](https://ifbfirst.github.io/coffee-house/home.html)   |
-| Library          | [Library](https://ifbfirst.github.io/library/index.html)        |
+| Project Title               | Deploy Link        |
+| ----------------------------| -------------------|
+| eCommerce final with a team | [eCommerce](https://online-moon-store.netlify.app/)     |
+| Puzzle                      | [Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
+| Nanograms game              | [Nanograms game](https://ifbfirst.github.io/nanograms/index.html) |
+| Hangman game                | [Hangman game](https://ifbfirst.github.io/hangman/index.html)   |
+| Coffee-house                | [Coffee-house](https://ifbfirst.github.io/coffee-house/home.html)   |
+| Library                     | [Library](https://ifbfirst.github.io/library/index.html)        |
