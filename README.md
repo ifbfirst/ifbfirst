@@ -13,7 +13,7 @@
 ## About Me
 
 - I graduated from BSU with a degree **biotechnology**.
-- Now I am studying at the international school Front-End **RSS school** and enjoy implementing practical problems.
+- Now I am studying at the international school Front-End **RSS school** and enjoy implementing practical tasks.
 
 ## Tools
 
