@@ -1,16 +1,53 @@
-### Hi there 👋
+## Hello, I'm Kate! 👋
 
-<!--
-**ifbfirst/ifbfirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=I+am+a+junior+Frontend-End+developer!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## My Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location:** Belarus
+- **E-mail:** [katika.life@gmail.com](mailto:katika.life@gmail.com)
+- **Phone:** [+375295961667](tel:+375295961667)
+- **Telegram:** [Send me a message in telegram](https://t.me/KatsiarynaMashko)
+- **GitHub:** [ifbfirst](https://github.com/ifbfirst)
+
+## About Me
+
+- I graduated from BSUo with a degree **biotechnology**.
+- Now I am studying at the international school Front-End **RSS school** and enjoy implementing practical problems.
+
+## Skills and tools
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="left" alt="TypeScript" width="26px" src="https://github.com/remojansen/logo.ts/blob/master/ts.png?raw=true"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img align="left" alt="VC Code" width="26px" src="https://code.visualstudio.com/assets/favicon.ico"/>
+</a>
+<a href="https://eslint.org/" target="_blank">
+  <img align="left" alt="ESLint" width="26px" src="https://avatars.githubusercontent.com/u/6019716?s=200&v=4"/>
+</a>
+<a href="https://webpack.js.org/" target="_blank">
+  <img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png"/>
+</a>
+
+## My Educational Projects
+
+| Project Title  | Deploy Link        |
+| -------------- | :----------------- |
+| RSS Puzzle     | [RSS Puzzle]()     |
+| Nanograms-game | [Nanograms-game]() |
+| Hangman-game   | [Hangman-game]()   |
+| Coffee-house   | [Coffee-house]()   |
+| Library        | [Library]()        |
