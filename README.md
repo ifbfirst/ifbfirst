@@ -2,7 +2,7 @@
 
 ## I'am junior Front-End developer
 
-## My Contacts
+## Contacts
 
 - **Location:** Belarus
 - **E-mail:** [katika.life@gmail.com](mailto:katika.life@gmail.com)
@@ -12,10 +12,10 @@
 
 ## About Me
 
-- I graduated from BSUo with a degree **biotechnology**.
+- I graduated from BSU with a degree **biotechnology**.
 - Now I am studying at the international school Front-End **RSS school** and enjoy implementing practical problems.
 
-## Skills and tools
+## Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
@@ -42,7 +42,7 @@
   <img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png"/>
 </a>
 
-## My Educational Projects
+## Projects
 
 | Project Title  | Deploy Link        |
 | -------------- | :----------------- |
