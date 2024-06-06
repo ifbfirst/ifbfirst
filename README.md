@@ -46,7 +46,7 @@
 
 | Project Title  | Deploy Link        |
 | -------------- | :----------------- |
-| RSS Puzzle     | [RSS Puzzle]()     |
+| RSS Puzzle     | [RSS Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
 | Nanograms-game | [Nanograms-game]() |
 | Hangman-game   | [Hangman-game]()   |
 | Coffee-house   | [Coffee-house]()   |
