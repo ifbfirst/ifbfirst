@@ -48,6 +48,6 @@
 | -------------- | :----------------- |
 | RSS Puzzle     | [RSS Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
 | Nanograms-game | [Nanograms-game](https://ifbfirst.github.io/nanograms/index.html) |
-| Hangman-game   | [Hangman-game]()   |
+| Hangman-game   | [Hangman-game](https://ifbfirst.github.io/hangman/index.html)   |
 | Coffee-house   | [Coffee-house]()   |
 | Library        | [Library]()        |
