@@ -1,6 +1,6 @@
 ## Hello, I'm Kate! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1B0E63FF&background=5BE0FF00&random=false&width=1000&lines=I+am+a+junior+Frontend-End+developer!)](https://git.io/typing-svg)
+## I'am junior Front-End developer
 
 ## My Contacts
 
