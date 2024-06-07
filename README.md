@@ -43,8 +43,9 @@
 </a>
 
 
+## Projects
 
-| Project Title               | Deploy Link        |
+| Title                       | Link        |
 | ----------------------------| -------------------|
 | eCommerce final with a team | [eCommerce](https://online-moon-store.netlify.app/)     |
 | Puzzle                      | [Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
