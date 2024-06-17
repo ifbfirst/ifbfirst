@@ -28,6 +28,7 @@
 | Coffee-house                | [Coffee-house](https://ifbfirst.github.io/coffee-house/home.html)   |
 | Library                     | [Library](https://ifbfirst.github.io/library/index.html)        |
 | Audio-player                | [Audio-player](https://ifbfirst.github.io/audio_player/index.html)   |
+| Image-gallery               | [Image-gallery](https://ifbfirst.github.io/image-gallery/index.html)   |
 | CSS MEM slider              | [Css MEM slider](https://ifbfirst.github.io/cssMemeSlider/cssMemeSlider/index.html)    |
 | CV                          | [CV](https://ifbfirst.github.io/rsschool-cv/index.html)   |
 
