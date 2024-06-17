@@ -21,6 +21,7 @@
 | ----------------------------| -------------------|
 | eCommerce final with a team | [eCommerce](https://online-moon-store.netlify.app/)     |
 | Fun-chat                    | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
+| Async-race                  | [Async-race](https://ifbfirst.github.io/async-race/)     |
 | Puzzle                      | [Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
 | Nanograms game              | [Nanograms game](https://ifbfirst.github.io/nanograms/index.html) |
 | Hangman game                | [Hangman game](https://ifbfirst.github.io/hangman/index.html)   |
