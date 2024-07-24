@@ -19,7 +19,7 @@
 
 | Title                            | Link        |
 | ----------------------------     | -------------------|
-| Star Wars People Finders (React) | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/))     |
+| Star Wars People Finders (React) | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
 | eCommerce final with a team      | [eCommerce](https://online-moon-store.netlify.app/)     |
 | Fun-chat                         | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
 | Async-race                       | [Async-race](https://ifbfirst.github.io/async-race/)     |
@@ -60,8 +60,8 @@
   <img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-small.png"/>
 </a>
 <a href="https://vitejs.dev/" target="_blank">
-  <img align="left" alt="Vite" width="30px" src="https://raw.githubusercontent.com/vite/media/master/logo/icon-square-small.png"/>
+  <img align="left" alt="Vite" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg"/>
 </a>
 <a href="https://ru.legacy.reactjs.org/" target="_blank">
-  <img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/react/media/master/logo/icon-square-small.png"/>
+  <img align="left" alt="React" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg"/>
 </a>
