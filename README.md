@@ -19,7 +19,7 @@
 
 | Title                            | Link        |
 | ----------------------------     | -------------------|
-| Quiz (React)                     | [Quiz](https://ifbfirst-quiz.netlify.app/))     |
+| Quiz (React)                     | [Quiz](https://ifbfirst-quiz.netlify.app/)     |
 | Star Wars People Finders (React) | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
 | eCommerce final with a team      | [eCommerce](https://online-moon-store.netlify.app/)     |
 | Fun-chat                         | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
