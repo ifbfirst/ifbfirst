@@ -17,23 +17,24 @@
 
 ## Projects
 
-| Title                            | Link        |
-| ----------------------------     | -------------------|
-| Forms (React)                    | [Forms](https://ifbfirst-forms.netlify.app/)     |
-| Quiz (React)                     | [Quiz](https://ifbfirst-quiz.netlify.app/)     |
-| Star Wars People Finders (React) | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
-| eCommerce final with a team      | [eCommerce](https://online-moon-store.netlify.app/)     |
-| Fun-chat                         | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
-| Async-race                       | [Async-race](https://ifbfirst.github.io/async-race/)     |
-| Puzzle                           | [Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
-| Nanograms game                   | [Nanograms game](https://ifbfirst.github.io/nanograms/index.html) |
-| Hangman game                     | [Hangman game](https://ifbfirst.github.io/hangman/index.html)   |
-| Coffee-house                     | [Coffee-house](https://ifbfirst.github.io/coffee-house/home.html)   |
-| Library                          | [Library](https://ifbfirst.github.io/library/index.html)        |
-| Audio-player                     | [Audio-player](https://ifbfirst.github.io/audio_player/index.html)   |
-| Image-gallery                    | [Image-gallery](https://ifbfirst.github.io/image-gallery/index.html)   |
-| CSS MEM slider                   | [Css MEM slider](https://ifbfirst.github.io/cssMemeSlider/cssMemeSlider/index.html)    |
-| CV                               | [CV](https://ifbfirst.github.io/rsschool-cv/index.html)   |
+| Title                             | Link        |
+| ----------------------------      | -------------------|
+| Rest/GraphQL (NextJS) with a team | [Rest/Graph QL] (https://moon-graphiql-app.netlify.app/en)      |
+| Forms (React)                     | [Forms](https://ifbfirst-forms.netlify.app/)     |
+| Quiz (React)                      | [Quiz](https://ifbfirst-quiz.netlify.app/)     |
+| Star Wars People Finders (React)  | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
+| eCommerce final with a team       | [eCommerce](https://online-moon-store.netlify.app/)     |
+| Fun-chat                          | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
+| Async-race                        | [Async-race](https://ifbfirst.github.io/async-race/)     |
+| Puzzle                            | [Puzzle](https://ifbfirst.github.io/rss-puzzle/)     |
+| Nanograms game                    | [Nanograms game](https://ifbfirst.github.io/nanograms/index.html) |
+| Hangman game                      | [Hangman game](https://ifbfirst.github.io/hangman/index.html)   |
+| Coffee-house                      | [Coffee-house](https://ifbfirst.github.io/coffee-house/home.html)   |
+| Library                           | [Library](https://ifbfirst.github.io/library/index.html)        |
+| Audio-player                      | [Audio-player](https://ifbfirst.github.io/audio_player/index.html)   |
+| Image-gallery                     | [Image-gallery](https://ifbfirst.github.io/image-gallery/index.html)   |
+| CSS MEM slider                    | [Css MEM slider](https://ifbfirst.github.io/cssMemeSlider/cssMemeSlider/index.html)    |
+| CV                                | [CV](https://ifbfirst.github.io/rsschool-cv/index.html)   |
 
 ## Tools
 
