@@ -68,3 +68,9 @@
 <a href="https://ru.legacy.reactjs.org/" target="_blank">
   <img align="left" alt="React" width="30px" src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg"/>
 </a>
+<a href="https://nextjs.org/" target="_blank">
+  <img align="left" alt="Next.js" width="30px" src="https://cdn.worldvectorlogo.com/logos/nextjs.svg"/>
+</a>
+<a href="https://redux.js.org/" target="_blank">
+  <img align="left" alt="Redux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+</a>
