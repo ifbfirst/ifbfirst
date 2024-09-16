@@ -19,8 +19,7 @@
 
 | Title                             | Link        |
 | ----------------------------      | -------------------|
-| Rest/GraphQL (NextJS) with a team | [Rest/Graph QL](https://moon-graphiql-app.netlify.app/en/)      |
-  Desctop                                                                |
+| Rest/GraphQL (NextJS) with a team | [Rest/Graph QL](https://moon-graphiql-app.netlify.app/en/) Desktop      |                                                          |
 | Forms (React)                     | [Forms](https://ifbfirst-forms.netlify.app/)     |
 | Quiz (React)                      | [Quiz](https://ifbfirst-quiz.netlify.app/)     |
 | Star Wars People Finders (React)  | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
