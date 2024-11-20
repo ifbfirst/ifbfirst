@@ -12,8 +12,8 @@
 
 ## About Me
 
-- I graduated from BSU with a degree **biotechnology**.
-- Now I am studying at the international school Front-End **RSS school** and enjoy implementing practical tasks.
+- First I graduated from **BSU** with a degree **biotechnology**.
+- Second I graduated from **RSS school** .
 
 ## Projects
 
