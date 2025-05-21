@@ -1,6 +1,6 @@
 ## Hello, I'm Kate! 👋
 
-## I'am junior Front-End developer
+## I'am Front-End developer
 
 ## Contacts
 
