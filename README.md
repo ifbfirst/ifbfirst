@@ -29,7 +29,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 | ----------------------------      | -------------------|
 | Rest/GraphQL (NextJS) with a team | [Rest/Graph QL](https://moon-graphiql-app.netlify.app/en/) Desktop      |                                                          |
 | Forms (React)                     | [Forms](https://ifbfirst-forms.netlify.app/)     |
-| Quiz (React)                      | [Quiz](https://ifbfirst-quiz.netlify.app/)     |
+| Quiz (React)                      | [Quiz](https://quizzes-km.netlify.app)     |
 | Star Wars People Finders (React)  | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
 | eCommerce final with a team       | [eCommerce](https://online-moon-store.netlify.app/)     |
 | Fun-chat                          | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
