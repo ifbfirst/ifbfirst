@@ -15,7 +15,14 @@
 
 Front-End Developer with over 3 years of experience building scalable web applications and enterprise platforms across the Enterprise, E-commerce, and MedTech sectors. I have a background in the pharmaceutical industry (development and regulatory submission of medical products). I am proficient in React and TypeScript and possess expertise in designing interfaces for handling analytical and structured data. I adapt easily to complex business requirements and have a proven track record of developing MVPs from scratch and writing modern, high-quality code. My skillset includes creating design systems, unit testing, and ensuring accessibility (a11y). I work effectively in Agile teams, driving tasks from concept to production.
 
-## PET Projects (2023/2024 years)
+## My Projects with AI (2026 year)
+
+| Title                             | Link        |
+| ----------------------------      | -------------------|
+| Famspace | [Famspace] (famspace.by)    |     
+| Randomizer | [Randomizer] (https://katsiarynamashkoprojects.netlify.app/randomizer)    |   |
+
+## My Projects (2023/2024 years)
 
 | Title                             | Link        |
 | ----------------------------      | -------------------|
@@ -35,6 +42,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 | Image-gallery                     | [Image-gallery](https://ifbfirst.github.io/image-gallery/index.html)   |
 | CSS MEM slider                    | [Css MEM slider](https://ifbfirst.github.io/cssMemeSlider/cssMemeSlider/index.html)    |
 | CV                                | [CV](https://ifbfirst.github.io/rsschool-cv/index.html)   |
+
 
 ## Tools
 
