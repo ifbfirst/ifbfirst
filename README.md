@@ -19,7 +19,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 
 | Title                             | Link        |
 | ----------------------------      | -------------------|
-| Famspace | [Famspace] (famspace.by)    |     
+| Famspace | [Famspace](famspace.by)|     
 | Randomizer | [Randomizer] (https://katsiarynamashkoprojects.netlify.app/randomizer)    |   |
 
 ## My Projects (2023/2024 years)
