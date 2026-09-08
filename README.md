@@ -100,8 +100,6 @@ Front-End Developer with over 3 years of experience building scalable web applic
   <a href="https://eslint.org" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" height="28"/></a>
   <a href="https://prettier.io" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" height="28"/></a>
   <a href="https://superset.apache.org" target="_blank"><img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge&logo=apachesuperset&logoColor=white" alt="Superset" height="28"/></a>
-  <a href="https://nx.dev" target="_blank"><img src="https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white" alt="Nx" height="28"/></a>
-  <a href="https://github.com/hyoo-ru/mam_mol" target="_blank"><img src="https://img.shields.io/badge/$mol-2F80ED?style=for-the-badge&logo=github&logoColor=white" alt="Mol" height="28"/></a>
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" height="28"/></a>
 </p>
 ### 🏢 Enterprise & Workflow
