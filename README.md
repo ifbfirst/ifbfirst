@@ -106,8 +106,6 @@ Front-End Developer with over 3 years of experience building scalable web applic
 </p>
 ### 🏢 Enterprise & Workflow
 <p align="left">
-  <img src="https://img.shields.io/badge/1C-FF6A00?style=for-the-badge&logo=1c&logoColor=white" alt="1C" height="28"/>
-  <img src="https://img.shields.io/badge/CRM-0F172A?style=for-the-badge&logo=hubspot&logoColor=white" alt="CRM" height="28"/>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="28"/></a>
   <a href="https://www.sonarsource.com/products/sonarqube" target="_blank"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" height="28"/></a>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28"/></a>
