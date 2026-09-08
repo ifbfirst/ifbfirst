@@ -20,8 +20,8 @@ Front-End Developer with over 3 years of experience building scalable web applic
 | Title                             | Link        |
 | ----------------------------      | -------------------|
 | Famspace                          | [Famspace](https://famspace.by)|     
-| Randomizer                        | [Randomizer](https://katsiarynamashkoprojects.netlify.app/randomizer)    |
-| Molecular Visualizers             | [Molecular Visualizers](https://katsiarynamashkoprojects.netlify.app/)   |
+| Randomizer                        | [Randomizer](https://projects-km.netlify.app/randomizer)    |
+| Molecular Visualizers             | [Molecular Visualizers](https://projects-km.netlify.app/)   |
 
 ## My Projects (2023/2024 years)
 
@@ -34,7 +34,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 | eCommerce final with a team       | [eCommerce](https://online-moon-store.netlify.app/)     |
 | Fun-chat                          | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
 | Async-race                        | [Async-race](https://ifbfirst.github.io/async-race/)     |
-| Puzzle                            | [Puzzle](https://katsiarynamashkopuzzle.netlify.app/)     |
+| Puzzle                            | [Puzzle](https://puzzle-km.netlify.app/)     |
 | Nanograms game                    | [Nanograms game](https://ifbfirst.github.io/nanograms/index.html) |
 | Hangman game                      | [Hangman game](https://ifbfirst.github.io/hangman/index.html)   |
 | Coffee-house                      | [Coffee-house](https://ifbfirst.github.io/coffee-house/home.html)   |
