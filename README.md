@@ -38,7 +38,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 
 ## Tools
 
-  ## 🛠️ Технический стек и инструменты
+## 🛠️ Технический стек и инструменты
 
 ### 💻 Core & Languages
 <p align="left">
@@ -77,7 +77,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 
 ### 🌐 API, Integrations & Security
 <p align="left">
-  <a href="https://wikipedia.org" target="_blank"><img src="https://shields.io API" height="28"/></a>
+  <a href="https://wikipedia.org" target="_blank"><img src="https://shields.io" alt="REST API" height="28"/></a>
   <a href="https://mozilla.org" target="_blank"><img src="https://shields.io" alt="WebSockets" height="28"/></a>
   <a href="https://keycloak.org" target="_blank"><img src="https://shields.io" alt="Keycloak" height="28"/></a>
 </p>
@@ -94,19 +94,19 @@ Front-End Developer with over 3 years of experience building scalable web applic
   <a href="https://vitejs.dev" target="_blank"><img src="https://shields.io" alt="Vite" height="28"/></a>
   <a href="https://js.org" target="_blank"><img src="https://shields.io" alt="Webpack" height="28"/></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://shields.io" alt="Git" height="28"/></a>
-  <a href="https://github.io" target="_blank"><img src="https://shields.io" height="28"/></a>
+  <a href="https://github.io" target="_blank"><img src="https://shields.io" alt="Husky" height="28"/></a>
   <a href="https://eslint.org" target="_blank"><img src="https://shields.io" alt="ESLint" height="28"/></a>
   <a href="https://prettier.io" target="_blank"><img src="https://shields.io" alt="Prettier" height="28"/></a>
   <a href="https://apache.org" target="_blank"><img src="https://shields.io" alt="Superset" height="28"/></a>
   <a href="https://nx.dev" target="_blank"><img src="https://shields.io" alt="Nx" height="28"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://shields.io" height="28"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://shields.io" alt="Mol" height="28"/></a>
   <a href="https://visualstudio.com" target="_blank"><img src="https://shields.io" alt="VS Code" height="28"/></a>
 </p>
 
-### 🏢 Enterprise & Workflow (из опыта работы)
+### 🏢 Enterprise & Workflow
 <p align="left">
-  <img src="https://shields.io" height="28"/>
-  <img src="https://shields.io" height="28"/>
+  <img src="https://shields.io" alt="1C" height="28"/>
+  <img src="https://shields.io" alt="CRM" height="28"/>
   <a href="https://atlassian.com" target="_blank"><img src="https://shields.io" alt="Jira" height="28"/></a>
   <a href="https://sonarqube.org" target="_blank"><img src="https://shields.io" alt="SonarQube" height="28"/></a>
   <a href="https://jenkins.io" target="_blank"><img src="https://shields.io" alt="Jenkins" height="28"/></a>
