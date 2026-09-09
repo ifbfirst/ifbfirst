@@ -17,6 +17,8 @@ Front-End Developer with over 3 years of experience building scalable web applic
 
 ## My Projects (me+AI) (2026 year)
 
+## [Projects]([https://famspace.by](https://projects-km.netlify.app/)) 
+
 | Title                             | Link        |
 | ----------------------------      | -------------------|
 | Famspace                          | [Famspace](https://famspace.by)   |     
