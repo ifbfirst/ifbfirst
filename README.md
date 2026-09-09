@@ -19,7 +19,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 
 | Title                             | Link        |
 | ----------------------------      | -------------------|
-| Famspace                          | [Famspace](https://famspace.by)|     
+| Famspace                          | <a href="https://famspace.by" target="_blank">Famspace</a>|     
 | Randomizer                        | [Randomizer](https://projects-km.netlify.app/randomizer)    |
 | Molecular Visualizers             | [Molecular Visualizers](https://projects-km.netlify.app/)   |
 
