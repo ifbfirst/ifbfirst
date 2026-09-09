@@ -22,7 +22,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 | Famspace                          | [Famspace](https://famspace.by)   |     
 | Randomizer                        | [Randomizer](https://projects-km.netlify.app/randomizer)    |
 | Molecular Visualizers             | [Molecular Visualizers](https://projects-km.netlify.app/macromolecules)   |
-| Rental                            | [Renta](https://projects-km.netlify.app/rental)   |
+| Rental                            | [Rental](https://projects-km.netlify.app/rental)   |
 
 ## My Projects (2023/2024 years)
 
