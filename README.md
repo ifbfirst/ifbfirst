@@ -21,7 +21,8 @@ Front-End Developer with over 3 years of experience building scalable web applic
 | ----------------------------      | -------------------|
 | Famspace                          | [Famspace](https://famspace.by)   |     
 | Randomizer                        | [Randomizer](https://projects-km.netlify.app/randomizer)    |
-| Molecular Visualizers             | [Molecular Visualizers](https://projects-km.netlify.app/)   |
+| Molecular Visualizers             | [Molecular Visualizers](https://projects-km.netlify.app/macromolecules)   |
+| Rental                            | [Renta](https://projects-km.netlify.app/rental)   |
 
 ## My Projects (2023/2024 years)
 
@@ -32,11 +33,11 @@ Front-End Developer with over 3 years of experience building scalable web applic
 | Quiz (React)                      | [Quiz](https://quizzes-km.netlify.app)     |
 | Star Wars People Finders (React)  | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
 | eCommerce final with a team       | [eCommerce](https://online-moon-store.netlify.app/)     |
-| Fun-chat                          | [Fun-chat](https://ifbfirst.github.io/fun-chat/)     |
-| Async-race                        | [Async-race](https://ifbfirst.github.io/async-race/)     |
+| Fun-chat                          | [Fun-chat](https://fun-chat-bn4b.onrender.com/)     |
+| Async-race                        | [Async-race](https://async-race-lmev.onrender.com/)     |
 | Puzzle                            | [Puzzle](https://puzzle-km.netlify.app/)     |
-| Nanograms game                    | [Nanograms game](https://ifbfirst.github.io/nanograms/index.html) |
-| Hangman game                      | [Hangman game](https://ifbfirst.github.io/hangman/index.html)   |
+| Nanograms game                    | [Nanograms game](https://nanograms-km.netlify.app/) |
+| Hangman game                      | [Hangman game] (https://hangman-game-km.netlify.app/)   |
 | Coffee-house                      | [Coffee-house](https://ifbfirst.github.io/coffee-house/home.html)   |
 | Library                           | [Library](https://ifbfirst.github.io/library/index.html)        |
 | Audio-player                      | [Audio-player](https://ifbfirst.github.io/audio_player/index.html)   |
