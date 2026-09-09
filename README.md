@@ -19,7 +19,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 
 | Title                             | Link        |
 | ----------------------------      | -------------------|
-| Famspace                          | <a href="https://famspace.by" target="_blank">Famspace</a>|     
+| Famspace                          | [Famspace](https://famspace.by)   |     
 | Randomizer                        | [Randomizer](https://projects-km.netlify.app/randomizer)    |
 | Molecular Visualizers             | [Molecular Visualizers](https://projects-km.netlify.app/)   |
 
@@ -27,7 +27,7 @@ Front-End Developer with over 3 years of experience building scalable web applic
 
 | Title                             | Link        |
 | ----------------------------      | -------------------|
-| Rest/GraphQL (NextJS) with a team | [Rest/Graph QL](https://moon-graphiql-app.netlify.app/en/) {:target="_blank"} Desktop      |                                                          |
+| Rest/GraphQL (NextJS) with a team | [Rest/Graph QL](https://moon-graphiql-app.netlify.app/en/) Desktop      |                                                          |
 | Forms (React)                     | [Forms](https://ifbfirst-forms.netlify.app/)     |
 | Quiz (React)                      | [Quiz](https://quizzes-km.netlify.app)     |
 | Star Wars People Finders (React)  | [Star Wars People Finders](https://ifbfirst-star-wars-people-finders.netlify.app/)     |
